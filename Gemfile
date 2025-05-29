@@ -72,3 +72,6 @@ end
 gem 'devise'
 gem 'activeadmin'
 gem 'sassc'
+gem 'arctic_admin'
+gem 'activeadmin_addons'
+gem 'activeadmin_quill_editor', '~> 0.2.0'
